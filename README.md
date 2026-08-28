@@ -32,19 +32,13 @@ A four-page Power BI dashboard created by Fuad Torfi to analyse fictional commun
 
 ### Executive Overview
 
-![Executive Overview](Screenshots/01-overview.png)
+![Executive Overview](./Screenshots/01-overview.png)
 
-### Applications Analysis
+![Applications Analysis](./Screenshots/02-applications.png)
 
-![Applications Analysis](Screenshots/02-applications.png)
+![Grant Delivery Performance](./Screenshots/03-delivery.png)
 
-### Grant Delivery Performance
-
-![Grant Delivery Performance](Screenshots/03-delivery.png)
-
-### Grant Risk and Compliance
-
-![Grant Risk and Compliance](Screenshots/04-risk.png)
+![Grant Risk and Compliance](./Screenshots/04-risk.png)
 
 ## Disclaimer
 
